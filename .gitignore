@@ -1,0 +1,13 @@
+training_data
+__pycache__
+*pyc
+runs
+val_data
+test_data
+*.pt
+models
+test_data2
+train_data2
+val_data2
+test_data
+.ipynb_checkpoints
